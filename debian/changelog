@@ -1,3 +1,9 @@
+libnet-ldns-perl (0.75-3~unstable+1) unstable; urgency=low
+
+  * Fix architecture.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Wed, 30 Dec 2015 15:39:24 +0100
+
 libnet-ldns-perl (0.75-2~unstable+1) unstable; urgency=low
 
   * Fix missing dependency.

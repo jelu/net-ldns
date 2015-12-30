@@ -8,7 +8,7 @@ Standards-Version: 3.9.1
 Homepage: https://github.com/jelu/net-ldns
 
 Package: libnet-ldns-perl
-Architecture: all
+Architecture: i386 amd64
 Depends: ${misc:Depends}, ${perl:Depends}
 Description: DNS-talking module based on the ldns C library
  DNS-talking module based on the ldns C library
