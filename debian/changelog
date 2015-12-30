@@ -1,0 +1,11 @@
+libnet-ldns-perl (0.75-2~unstable+1) unstable; urgency=low
+
+  * Fix missing dependency.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Wed, 30 Dec 2015 14:34:24 +0100
+
+libnet-ldns-perl (0.75-1~unstable+1) unstable; urgency=low
+
+  * Release 0.75.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Wed, 30 Dec 2015 11:53:28 +0100
