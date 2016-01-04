@@ -1,8 +1,7 @@
 Source: libnet-ldns-perl
 Section: perl
 Priority: optional
-Build-Depends: debhelper (>= 7)
-Build-Depends-Indep: perl, libdevel-checklib-perl, libtest-fatal-perl, libmodule-install-perl, libmodule-install-xsutil-perl
+Build-Depends: debhelper (>= 7), perl, libdevel-checklib-perl, libtest-fatal-perl, libmodule-install-perl, libmodule-install-xsutil-perl
 Maintainer: Jerry Lundström <lundstrom.jerry@gmail.com>
 Standards-Version: 3.9.1
 Homepage: https://github.com/jelu/net-ldns
