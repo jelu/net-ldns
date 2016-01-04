@@ -1,3 +1,9 @@
+libnet-ldns-perl (0.75-5~unstable+1) unstable; urgency=low
+
+  * Add libssl to dependency.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Mon, 04 Jan 2016 15:44:23 +0100
+
 libnet-ldns-perl (0.75-4~unstable+1) unstable; urgency=low
 
   * Fix dependency due to architecture depended build.
