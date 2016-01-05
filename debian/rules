@@ -1,4 +1,8 @@
 #!/usr/bin/make -f
 
+ifeq ($(USER),buildd)
+TEST_NO_NETWORK=1
+endif
+
 %:
-	dh $@
+	TEST_NO_NETWORK=$(TEST_NO_NETWORK) dh $@

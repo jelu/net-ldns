@@ -1,3 +1,9 @@
+libnet-ldns-perl (0.75-6~unstable+1) unstable; urgency=low
+
+  * Detect if built on launchpad (user buildd), if so disable network in tests.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Tue, 05 Jan 2016 09:13:52 +0100
+
 libnet-ldns-perl (0.75-5~unstable+1) unstable; urgency=low
 
   * Add libssl to dependency.
