@@ -123,6 +123,7 @@ lib/Net/LDNS/RRList.pm
 LICENSE
 Makefile.PL
 MANIFEST			This list of files
+MANIFEST.SKIP
 META.yml
 ppport.h
 README.md

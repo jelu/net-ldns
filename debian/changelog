@@ -1,3 +1,9 @@
+libnet-ldns-perl (0.75-7~unstable+1) unstable; urgency=low
+
+  * Add MANIFEST.SKIP to MANIFEST.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Thu, 07 Jan 2016 12:55:16 +0100
+
 libnet-ldns-perl (0.75-6~unstable+1) unstable; urgency=low
 
   * Detect if built on launchpad (user buildd), if so disable network in tests.
