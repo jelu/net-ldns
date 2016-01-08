@@ -1,3 +1,9 @@
+libnet-ldns-perl (0.75-8~unstable+1) unstable; urgency=low
+
+  * Update debian/copyright.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Fri, 08 Jan 2016 12:57:34 +0100
+
 libnet-ldns-perl (0.75-7~unstable+1) unstable; urgency=low
 
   * Add MANIFEST.SKIP to MANIFEST.
