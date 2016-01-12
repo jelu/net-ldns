@@ -1,3 +1,9 @@
+libnet-ldns-perl (0.75-9~unstable+1) unstable; urgency=low
+
+  * Change dependency for libssl 1.0.0/1.0.2 to support Debian stretch/sid.
+
+ -- Jerry Lundström <lundstrom.jerry@gmail.com>  Tue, 12 Jan 2016 14:54:44 +0100
+
 libnet-ldns-perl (0.75-8~unstable+1) unstable; urgency=low
 
   * Update debian/copyright.
